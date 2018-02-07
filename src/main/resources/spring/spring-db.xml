@@ -32,11 +32,11 @@
         <context:property-placeholder location="classpath:/db/heroku.properties" system-properties-mode="OVERRIDE"/>
 
         <!--<bean class="java.net.URI" id="dbUrl">
-            <constructor-arg value="jdbc:hsqldb:mem:bestlunch"/>
+            <constructor-arg value="jdbc:hsqldb:mem:dishvote"/>
         </bean>-->
         <bean id="dataSource"
               class="org.springframework.jdbc.datasource.DriverManagerDataSource"
-              p:url="jdbc:hsqldb:mem:bestlunch"
+              p:url="jdbc:hsqldb:mem:dishvote"
               p:username="sa"
               p:password=""
               p:driverClassName="org.hsqldb.jdbcDriver"/>

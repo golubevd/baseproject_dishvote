@@ -1,4 +1,8 @@
 
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/631adf1428ef4ee285d77ae53b45880f)](https://www.codacy.com/app/golubevd/baseproject_dishvote?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=golubevd/baseproject_dishvote&amp;utm_campaign=Badge_Grade)
+
+
 <a href="http://javaops.ru/reg/topjava?ch=javawebinar">TopJava</a> Graduation project - REST API
 ===============================
 
