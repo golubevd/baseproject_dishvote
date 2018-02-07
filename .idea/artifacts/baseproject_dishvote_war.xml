@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="baseproject_dishvote:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dishvote.war">
+      <element id="artifact" artifact-name="baseproject_dishvote:war exploded" />
+    </root>
+  </artifact>
+</component>
