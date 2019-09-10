@@ -6,6 +6,8 @@
 <a href="http://javaops.ru/reg/topjava?ch=javawebinar">TopJava</a> Graduation project - REST API
 ===============================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/410e90c99ba740459a333fd3a4f84afa)](https://app.codacy.com/app/golubevd/baseproject_dishvote?utm_source=github.com&utm_medium=referral&utm_content=golubevd/baseproject_dishvote&utm_campaign=badger)
+
 ## Project description
 
 Design and implement a REST API using Hibernate/Spring/SpringMVC (or Spring-Boot) **without frontend**.
